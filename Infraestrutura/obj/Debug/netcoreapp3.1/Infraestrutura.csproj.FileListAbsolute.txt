@@ -1,0 +1,12 @@
+E:\Github\netcore.ef.crud\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.deps.json
+E:\Github\netcore.ef.crud\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.runtimeconfig.json
+E:\Github\netcore.ef.crud\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.runtimeconfig.dev.json
+E:\Github\netcore.ef.crud\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.dll
+E:\Github\netcore.ef.crud\Infraestrutura\bin\Debug\netcoreapp3.1\Infraestrutura.pdb
+E:\Github\netcore.ef.crud\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\netcore.ef.crud\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfoInputs.cache
+E:\Github\netcore.ef.crud\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.AssemblyInfo.cs
+E:\Github\netcore.ef.crud\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.csproj.CoreCompileInputs.cache
+E:\Github\netcore.ef.crud\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.dll
+E:\Github\netcore.ef.crud\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.pdb
+E:\Github\netcore.ef.crud\Infraestrutura\obj\Debug\netcoreapp3.1\Infraestrutura.genruntimeconfig.cache
