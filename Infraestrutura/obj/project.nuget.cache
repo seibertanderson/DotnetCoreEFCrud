@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nor8QCWiCOW/C6xyc8V5ex5o4t6m4uMZNerdDTmFfHOhLl6xCODEMZGPtrE3I2g70m0BF5pLd0vH/yhQmo6dHA==",
+  "dgSpecHash": "JKClAw9o96t6ZurUdRrKDihBDt28sdjsnReTYmTRPlOfR+coWVn25N0cWT2IhbHvUFXaiASW4lW/EREZl/O9vQ==",
   "success": true,
-  "projectFilePath": "E:\\Github\\netcore.ef.crud\\Infraestrutura\\Infraestrutura.csproj",
+  "projectFilePath": "C:\\Github\\netcoreefcrud\\Infraestrutura\\Infraestrutura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Anderson\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

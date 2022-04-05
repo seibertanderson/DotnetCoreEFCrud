@@ -4996,19 +4996,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anderson\\.nuget\\packages\\": {}
+    "C:\\Users\\Anderson\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github\\netcore.ef.crud\\Infraestrutura\\Infraestrutura.csproj",
+      "projectUniqueName": "C:\\Github\\netcoreefcrud\\Infraestrutura\\Infraestrutura.csproj",
       "projectName": "Infraestrutura",
-      "projectPath": "E:\\Github\\netcore.ef.crud\\Infraestrutura\\Infraestrutura.csproj",
+      "projectPath": "C:\\Github\\netcoreefcrud\\Infraestrutura\\Infraestrutura.csproj",
       "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\netcore.ef.crud\\Infraestrutura\\obj\\",
+      "outputPath": "C:\\Github\\netcoreefcrud\\Infraestrutura\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Anderson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,1 +1,5 @@
-developer.okta.com/blog/2020/06/10/crud-entity-framework-core
+Tutorial:
+https://developer.okta.com/blog/2020/06/10/crud-entity-framework-core
+
+String de Conexão: pegar o exemplo de appsettings.json
+https://pt.stackoverflow.com/questions/201466/entity-framework-connection-string

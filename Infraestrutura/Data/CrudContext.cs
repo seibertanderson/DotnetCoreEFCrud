@@ -8,11 +8,11 @@ namespace Infraestrutura.Data
 {
     public class CrudContext : DbContext
     {
-        public DbSet<Movie> Movies { get; set; }
-
         public CrudContext(DbContextOptions options) : base(options)
         {
 
         }
+
+        public DbSet<Movie> Movies { get; set; }
     }
 }

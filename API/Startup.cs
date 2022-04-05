@@ -31,7 +31,7 @@ namespace API
                 options.UseSqlServer(Configuration.GetConnectionString("CrudDatabase")));
             /* Configurar EntityFramework */
 
-            //services.AddMvc();
+            services.AddMvc();
 
         }
 
